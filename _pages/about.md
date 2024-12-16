@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Assistant@Purdue. Budding computer architect. <em> <a href="https://www.goodreads.com/quotes/918451-remember-red-hope-is-a-good-thing-maybe-the-best">Hope is a good thing,...and no good thing ever dies.</a> <em> 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: tanvi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Purdue University</p>
+    <p>West Lafayette, Indiana 47907</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final year PhD student in the School of Electrical and Computer Engineering at Purdue University. I joined Purdue for a Direct PhD program in 2019 under the supervision of [Prof. Kaushik Roy](https://engineering.purdue.edu/NRL). Broadly, my research interests are in problems that intersect deep learning and hardware systems. The focus of my thesis is two-fold, 1. architecting efficient compute-in-memory based hardware solutions for deep learning (HW4DL), and 2. leveraging deep learning for hardware design (DL4HW).
+ 
+Prior to joining Purdue, I worked as Digital Design Engineer in the Backplane Team at Texas Instruments (TI) India. During my time there, I was glad to get the opportunity to collaborate with the EDA team, thanks to my manager Rashmi Sachan. The collaboration helped me present my work at the annual TI Technical Conference (TITC).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+> —Anais Nin
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I like listening to music, dancing, solving NYT puzzles and finding guinea pigs for my cooking experiments. I also love playing badminton and have won several awards at intra- and inter- college tournaments during my undergrad at Indian Institute of Technology, Roorkee.
