@@ -9,7 +9,7 @@ profile:
   image: tanvi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Purdue University</p>
+    <p>@Purdue University</p>
     <p>West Lafayette, Indiana 47907</p>
 
 news: true # includes a list of news items
@@ -19,7 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 I am a final year PhD student in the School of Electrical and Computer Engineering at Purdue University. I joined Purdue for a Direct PhD program in 2019 under the supervision of [Prof. Kaushik Roy](https://engineering.purdue.edu/NRL). Broadly, my research interests are in problems that intersect deep learning and hardware systems. The focus of my thesis is two-fold, 1. architecting efficient compute-in-memory based hardware solutions for deep learning (HW4DL), and 2. leveraging deep learning for hardware design (DL4HW).
  
-Prior to joining Purdue, I worked as Digital Design Engineer in the Backplane Team at Texas Instruments (TI) India. During my time there, I was glad to get the opportunity to collaborate with the EDA team, thanks to my manager Rashmi Sachan. The collaboration helped me present my work at the annual TI Technical Conference (TITC).
+Prior to joining Purdue, I worked as Digital Design Engineer in the Backplane Team at Texas Instruments (TI) India where I also collaborated with the EDA team, thanks to my manager Rashmi Sachan.
+
+My CV can be found [here](https://drive.google.com/file/d/1SGNF5Qbrt2pY18qAB5AU1QX0Shz8Gch9/view?usp=sharing).
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
