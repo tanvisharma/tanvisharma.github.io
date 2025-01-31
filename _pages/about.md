@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant@Purdue. Budding computer architect. <em> <a href="https://www.goodreads.com/quotes/918451-remember-red-hope-is-a-good-thing-maybe-the-best">Hope is a good thing,...and no good thing ever dies.</a> <em> 
+subtitle: Research Assistant@Purdue. Computer architect.
 
 profile:
   align: right
