@@ -21,7 +21,7 @@ I am a final year PhD student in the School of Electrical and Computer Engineeri
  
 Prior to joining Purdue, I worked as Digital Design Engineer in the Backplane Team at Texas Instruments (TI) India where I also collaborated with the EDA team, thanks to my manager Rashmi Sachan.
 
-My CV can be found [here](https://drive.google.com/file/d/1SGNF5Qbrt2pY18qAB5AU1QX0Shz8Gch9/view?usp=sharing).
+My CV can be found [here](https://drive.google.com/file/d/1xjjHFyVCaCiKDwINa6XaKpyR94oA3mJk/view?usp=sharing).
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
