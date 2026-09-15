@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant@Purdue. Computer architect.
+subtitle: Deep Learning Performance Architect at NVIDIA.
 
 profile:
   align: right
   image: tanvi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>@Purdue University</p>
-    <p>West Lafayette, Indiana 47907</p>
+    <p>@NVIDIA</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final year PhD student in the School of Electrical and Computer Engineering at Purdue University. I joined Purdue for a Direct PhD program in 2019 under the supervision of [Prof. Kaushik Roy](https://engineering.purdue.edu/NRL). Broadly, my research interests are in problems that intersect deep learning and hardware systems. The focus of my thesis is two-fold, 1. architecting efficient compute-in-memory based hardware solutions for deep learning (HW4DL), and 2. leveraging deep learning for hardware design (DL4HW).
- 
-Prior to joining Purdue, I worked as Digital Design Engineer in the Backplane Team at Texas Instruments (TI) India where I also collaborated with the EDA team, thanks to my manager Rashmi Sachan.
+I am a Deep Learning Performance Architect at NVIDIA. My work focuses on performance modeling and inference optimization techniques.
+
+Prior to NVIDIA, I was pursuing a PhD under [Prof. Kaushik Roy](https://engineering.purdue.edu/NRL) in the School of Electrical and Computer Engineering at Purdue University. My research thesis is on compute-in-memory based accelerators for ML inference, spanning aspects from circuits to systems. I also worked as a Digital Design Engineer at Texas Instruments India for a year before my PhD.
 
 My CV can be found [here](https://drive.google.com/file/d/1xjjHFyVCaCiKDwINa6XaKpyR94oA3mJk/view?usp=sharing).
 
