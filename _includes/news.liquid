@@ -8,7 +8,9 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
+        {% assign upcoming_news = site.news | where: 'upcoming', true %}
+        {% assign dated_news = site.news | where_exp: 'item', 'item.upcoming != true' | sort: 'date' | reverse %}
+        {% assign news = upcoming_news | concat: dated_news %}
         {% if include.limit and site.announcements.limit %}
           {% assign news_limit = site.announcements.limit %}
         {% else %}
@@ -16,7 +18,13 @@
         {% endif %}
         {% for item in news limit: news_limit %}
           <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <th scope="row" style="width: 20%">
+              {% if item.upcoming %}
+                Upcoming
+              {% else %}
+                {{ item.date | date: '%b, %Y' }}
+              {% endif %}
+            </th>
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
