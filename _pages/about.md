@@ -19,6 +19,5 @@ Prior to NVIDIA, I was pursuing a PhD under [Prof. Kaushik Roy](https://engineer
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
-{: .about-quote}
 
 Beyond research, I like listening to music, dancing, solving NYT puzzles and finding guinea pigs for my cooking experiments. I also love playing badminton and have won several awards at intra- and inter- college tournaments during my undergrad at Indian Institute of Technology, Roorkee.
