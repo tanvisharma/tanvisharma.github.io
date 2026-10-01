@@ -56,6 +56,15 @@ table.table a {
   }
 }
 
+// News rows use 25% less vertical padding than the theme's 0.6rem default.
+.news .table-sm {
+  th,
+  td {
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem;
+  }
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
