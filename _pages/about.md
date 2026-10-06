@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Deep Learning Performance Architect at NVIDIA. My work focuses on performance modeling and inference optimization techniques.
+I am a Deep Learning Performance Architect at NVIDIA. My work focuses on performance modeling and inference/training optimizations.
 
 Prior to NVIDIA, I was pursuing a PhD under [Prof. Kaushik Roy](https://engineering.purdue.edu/NRL) in the School of Electrical and Computer Engineering at Purdue University. My research thesis is on compute-in-memory based accelerators for ML inference, spanning aspects from circuits to systems. I also worked as a Digital Design Engineer at Texas Instruments India for a year before my PhD.
 
